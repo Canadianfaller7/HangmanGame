@@ -60,7 +60,14 @@ data: {
         "BANANA",
         "BILIOUS",
         "INTESTINE",
-        "AMPLIFY"
+        "AMPLIFY",
+        "SKATEBOARDING",
+        "KICKFLIP",
+        "TREFLIP",
+        "BACKFLIP",
+        "CHESS",
+        "POKEMON",
+        "CRACKER"
     ],
     // currentWord will be set to a random word from above list
     currentWord: "",
